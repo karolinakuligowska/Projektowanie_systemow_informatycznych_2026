@@ -19,7 +19,7 @@ GitHub.com/karolinakuligowska/Projektowanie_systemow_informatycznych_2026
 
 # GDZIE & JAK
 
-Społeczność uniwersytetu jest różnorodna na wiele sposobów!
+Społeczność uniwersytecka jest różnorodna na wiele sposobów!
 
 Na UW staramy się tworzyć przestrzeń wolną od wszelkiej dyskryminacji,
 taką w której każdy może czuć się bezpiecznie:
