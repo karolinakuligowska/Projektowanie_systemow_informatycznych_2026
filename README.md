@@ -1,7 +1,6 @@
 Projektowanie systemów informatycznych
 
-
-KTO
+# KTO
 
 dr Karolina Kuligowska
 Katedra Data Science
@@ -12,18 +11,13 @@ www.linkedin.com/in/karolinakuligowska
 
 www.github.com/karolinakuligowska
 
-
-
-CO
+# CO
 
 przedmiot, materiały, zasady zaliczenia:
 
 GitHub.com/karolinakuligowska/Projektowanie_systemow_informatycznych_2026
 
-
-
-
-GDZIE & JAK
+# GDZIE & JAK
 
 Społeczność uniwersytetu jest różnorodna na wiele sposobów!
 
