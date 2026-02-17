@@ -3,6 +3,7 @@ Projektowanie systemów informatycznych
 # KTO
 
 dr Karolina Kuligowska
+
 Katedra Data Science
 
 www.kuligowska.com
