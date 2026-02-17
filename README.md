@@ -10,7 +10,7 @@ www.kuligowska.com
 
 www.linkedin.com/in/karolinakuligowska
 
-github.com/karolinakuligowska
+www.github.com/karolinakuligowska
 
 CO
 
