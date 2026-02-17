@@ -1,0 +1,12 @@
+
+1. INTRO
+
+2. Utwórz konto na GitHub //1pkt
+
+3. Utwórz na google drive plik doc
+- nazwij go "Notatki z zajec"
+- ustaw udostępnianie: "każda osoba mająca link"
+- skopiuj link (url) do tego pliku i wklej na swoim koncie GitHub (jako link html w readme) // 1pkt
+
+4. Otwórz plik R_funkcje_zadania
+Na końcu pliku są zadania podzielone na Blok A i Blok B: wybierz z każdego bloku dowolne zadanie i w nowym skrypcie R napisz jego rozwiązanie, następnie skrypt R uploaduj na swoje konto GitHub. Jedno dowolne zadanie z jednego bloku daje 1pkt, dwa dowolne zadania (z różnych bloków) dają 2pkt (rozwiązuj każde zadanie w osobnym skrypcie R).
