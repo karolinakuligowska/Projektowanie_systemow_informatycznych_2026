@@ -7,7 +7,9 @@ dr Karolina Kuligowska
 Katedra Data Science
 
 www.kuligowska.com
+
 www.linkedin.com/in/karolinakuligowska
+
 github.com/karolinakuligowska
 
 CO
