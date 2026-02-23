@@ -1,0 +1,189 @@
+,"Country_Code","Country_Name","World_region","Urban.population....of.total.","Internet.access....of.total."
+1,"AFG","Afghanistan","South Asia",27.132,10.6
+2,"ALB","Albania","Europe & Central Asia",58.376,13
+3,"DZA","Algeria","Middle East & North Africa",71.304,66.36
+4,"AND","Andorra","Europe & Central Asia",84.612,97.93
+5,"AGO","Angola","Sub-Saharan Africa",44.819,90.6
+6,"ATG","Antigua and Barbuda","Latin America & Caribbean",23.393,70.97
+7,"ARG","Argentina","Latin America & Caribbean",91.893,67
+8,"ARM","Armenia","Europe & Central Asia",62.558,73
+9,"AUS","Australia","East Asia & Pacific",89.554,88.24
+10,"AUT","Austria","Europe & Central Asia",66.032,84.32
+11,"AZE","Azerbaijan","Europe & Central Asia",54.895,78.2
+12,"BHS","Bahamas, The","Latin America & Caribbean",82.951,5.17
+13,"BHR","Bahrain","Middle East & North Africa",88.835,86.52
+14,"BGD","Bangladesh","South Asia",35.035,11.99
+15,"BRB","Barbados","Latin America & Caribbean",31.415,13.96
+16,"BLR","Belarus","Europe & Central Asia",77.046,18.25
+17,"BEL","Belgium","Europe & Central Asia",97.897,59.83
+18,"BLZ","Belize","Latin America & Caribbean",43.845,98
+19,"BEN","Benin","Sub-Saharan Africa",44.395,80
+20,"BTN","Bhutan","South Asia",39.377,54.74
+21,"BOL","Bolivia","Latin America & Caribbean",68.911,71.11
+22,"BIH","Bosnia and Herzegovina","Europe & Central Asia",39.94,44.58
+23,"BWA","Botswana","Sub-Saharan Africa",57.71,39.7
+24,"BRA","Brazil","Latin America & Caribbean",85.933,60.87
+25,"BRN","Brunei Darussalam","East Asia & Pacific",77.505,79.55
+26,"BGR","Bulgaria","Europe & Central Asia",74.266,90
+27,"BFA","Burkina Faso","Sub-Saharan Africa",30.688,41.77
+28,"BDI","Burundi","Sub-Saharan Africa",12.359,39.36
+29,"CIV","C“te d'Ivoire","Sub-Saharan Africa",54.869,4
+30,"CPV","Cabo Verde","Sub-Saharan Africa",66.187,89.84
+31,"KHM","Cambodia","East Asia & Pacific",20.945,89.13
+32,"CMR","Cameroon","Sub-Saharan Africa",54.938,66.01
+33,"CAN","Canada","North America",82.006,53.2
+34,"CAF","Central African Republic","Sub-Saharan Africa",40.332,26.53
+35,"TCD","Chad","Sub-Saharan Africa",22.618,25
+36,"CHL","Chile","Latin America & Caribbean",89.697,6.21
+37,"CHN","China","East Asia & Pacific",56.778,8.12
+38,"COL","Colombia","Latin America & Caribbean",76.708,58.14
+39,"COM","Comoros","Sub-Saharan Africa",28.412,7.94
+40,"COD","Congo, Dem. Rep.","Sub-Saharan Africa",43.015,50.32
+41,"COG","Congo, Rep.","Sub-Saharan Africa",65.798,66.03
+42,"CRI","Costa Rica","Latin America & Caribbean",77.675,75.9
+43,"HRV","Croatia","Europe & Central Asia",59.284,76.48
+44,"CYP","Cyprus","Europe & Central Asia",66.84,89.65
+45,"CZE","Czech Republic","Europe & Central Asia",72.98,67.03
+46,"DNK","Denmark","Europe & Central Asia",87.847,96.97
+47,"DMA","Dominica","Latin America & Caribbean",69.82,61.33
+48,"DOM","Dominican Republic","Latin America & Caribbean",79.841,42.95
+49,"ECU","Ecuador","Latin America & Caribbean",63.976,54.06
+50,"EGY","Egypt, Arab Rep.","Middle East & North Africa",43.222,41.25
+51,"SLV","El Salvador","Latin America & Caribbean",67.189,80.56
+52,"GNQ","Equatorial Guinea","Sub-Saharan Africa",40.103,87.24
+53,"EST","Estonia","Europe & Central Asia",67.468,15.37
+54,"ETH","Ethiopia","Sub-Saharan Africa",19.922,87.7
+55,"FJI","Fiji","East Asia & Pacific",54.099,46.51
+56,"FIN","Finland","Europe & Central Asia",84.358,85.62
+57,"FRA","France","Europe & Central Asia",79.75,33.35
+58,"GAB","Gabon","Sub-Saharan Africa",87.366,48.05
+59,"GMB","Gambia, The","Sub-Saharan Africa",60.224,94.78
+60,"GEO","Georgia","Europe & Central Asia",53.826,58.01
+61,"DEU","Germany","Europe & Central Asia",75.51,34.67
+62,"GHA","Ghana","Sub-Saharan Africa",54.682,9.8
+63,"GRC","Greece","Europe & Central Asia",78.329,18.5
+64,"GRD","Grenada","Latin America & Caribbean",35.616,3.76
+65,"GUM","Guam","East Asia & Pacific",94.593,23.78
+66,"GTM","Guatemala","Latin America & Caribbean",52.03,69.09
+67,"GIN","Guinea","Sub-Saharan Africa",37.651,55.86
+68,"GNB","Guinea-Bissau","Sub-Saharan Africa",50.094,34.51
+69,"GUY","Guyana","Latin America & Caribbean",28.661,77.01
+70,"HTI","Haiti","Latin America & Caribbean",59.794,35.66
+71,"HND","Honduras","Latin America & Caribbean",55.315,87.48
+72,"HKG","Hong Kong SAR, China","East Asia & Pacific",100,30
+73,"HUN","Hungary","Europe & Central Asia",71.672,72.7
+74,"ISL","Iceland","Europe & Central Asia",94.23,12.23
+75,"IND","India","South Asia",33.136,79.26
+76,"IDN","Indonesia","East Asia & Pacific",54.466,25.37
+77,"IRN","Iran, Islamic Rep.","Middle East & North Africa",73.879,29.55
+78,"IRQ","Iraq","Middle East & North Africa",69.592,85.01
+79,"IRL","Ireland","Europe & Central Asia",63.535,53.23
+80,"ISR","Israel","Middle East & North Africa",92.205,21.23
+81,"ITA","Italy","Europe & Central Asia",69.116,98.24
+82,"JAM","Jamaica","Latin America & Caribbean",55.03,79.65
+83,"JPN","Japan","East Asia & Pacific",93.928,61.32
+84,"JOR","Jordan","Middle East & North Africa",83.905,45
+85,"KAZ","Kazakhstan","Europe & Central Asia",53.229,62.3
+86,"KEN","Kenya","Sub-Saharan Africa",26.055,93.18
+87,"KIR","Kiribati","East Asia & Pacific",44.447,74.59
+88,"KOR","Korea, Rep.","East Asia & Pacific",82.592,26
+89,"XKX","Kosovo","Europe & Central Asia",85.43,34.5
+90,"KWT","Kuwait","Middle East & North Africa",98.358,32.4
+91,"KGZ","Kyrgyz Republic","Europe & Central Asia",35.85,13.7
+92,"LAO","Lao PDR","East Asia & Pacific",39.654,76.82
+93,"LVA","Latvia","Europe & Central Asia",67.361,92.84
+94,"LBN","Lebanon","Middle East & North Africa",87.914,78.37
+95,"LSO","Lesotho","Sub-Saharan Africa",27.84,21.87
+96,"LBR","Liberia","Sub-Saharan Africa",50.1,76.11
+97,"LTU","Lithuania","Europe & Central Asia",66.512,7.32
+98,"LUX","Luxembourg","Europe & Central Asia",90.432,46.73
+99,"MAC","Macao SAR, China","East Asia & Pacific",100,32.05
+100,"MKD","Macedonia, FYR","Europe & Central Asia",57.204,27.36
+101,"MDG","Madagascar","Sub-Saharan Africa",35.741,74.38
+102,"MWI","Malawi","Sub-Saharan Africa",16.454,98.14
+103,"MYS","Malaysia","East Asia & Pacific",75.37,79.84
+104,"MDV","Maldives","South Asia",46.54,81.64
+105,"MLI","Mali","Sub-Saharan Africa",40.683,58.27
+106,"MLT","Malta","Middle East & North Africa",95.529,71
+107,"MHL","Marshall Islands","East Asia & Pacific",72.94,4.71
+108,"MRT","Mauritania","Sub-Saharan Africa",60.446,59.09
+109,"MUS","Mauritius","Sub-Saharan Africa",39.548,59.54
+110,"MEX","Mexico","Latin America & Caribbean",79.517,29.79
+111,"FSM","Micronesia, Fed. Sts.","East Asia & Pacific",22.481,72.16
+112,"MDA","Moldova","Europe & Central Asia",45.089,11.11
+113,"MNG","Mongolia","East Asia & Pacific",72.823,77.29
+114,"MNE","Montenegro","Europe & Central Asia",64.223,25.07
+115,"MAR","Morocco","Middle East & North Africa",60.685,69.88
+116,"MOZ","Mozambique","Sub-Saharan Africa",32.508,22.27
+117,"MMR","Myanmar","East Asia & Pacific",34.65,50
+118,"NAM","Namibia","Sub-Saharan Africa",47.625,17.52
+119,"NRU","Nauru","East Asia & Pacific",100,18
+120,"NPL","Nepal","South Asia",18.995,52.19
+121,"NLD","Netherlands","Europe & Central Asia",91.032,9.61
+122,"NZL","New Zealand","East Asia & Pacific",86.322,78.79
+123,"NIC","Nicaragua","Latin America & Caribbean",59.107,31.03
+124,"NGA","Nigeria","Sub-Saharan Africa",48.597,25.67
+125,"MNP","Northern Mariana Islands","East Asia & Pacific",89.209,24.57
+126,"NOR","Norway","Europe & Central Asia",80.734,90.41
+127,"OMN","Oman","Middle East & North Africa",78.088,97.3
+128,"PAK","Pakistan","South Asia",39.224,19.69
+129,"PLW","Palau","East Asia & Pacific",87.636,NA
+130,"PAN","Panama","Latin America & Caribbean",66.895,88.47
+131,"PNG","Papua New Guinea","East Asia & Pacific",13.039,69.93
+132,"PRY","Paraguay","Latin America & Caribbean",59.924,15.51
+133,"PER","Peru","Latin America & Caribbean",78.924,54
+134,"PHL","Philippines","East Asia & Pacific",44.289,45.46
+135,"POL","Poland","Europe & Central Asia",60.531,55.5
+136,"PRT","Portugal","Europe & Central Asia",64.017,NA
+137,"QAT","Qatar","Middle East & North Africa",99.317,9.6
+138,"ROU","Romania","Europe & Central Asia",54.749,73.3
+139,"RUS","Russian Federation","Europe & Central Asia",74.101,70.42
+140,"RWA","Rwanda","Sub-Saharan Africa",29.775,51.35
+141,"STP","S?o Tom‚ and Principe","Sub-Saharan Africa",65.647,61.18
+142,"WSM","Samoa","East Asia & Pacific",18.955,94.29
+143,"SMR","San Marino","Europe & Central Asia",94.216,59.5
+144,"SAU","Saudi Arabia","Middle East & North Africa",83.331,73.09
+145,"SEN","Senegal","Sub-Saharan Africa",44.065,20
+146,"SRB","Serbia","Europe & Central Asia",55.668,73.75
+147,"SYC","Seychelles","Sub-Saharan Africa",54.214,28
+148,"SLE","Sierra Leone","Sub-Saharan Africa",40.318,25.66
+149,"SGP","Singapore","East Asia & Pacific",100,81
+150,"SVK","Slovak Republic","Europe & Central Asia",53.468,11
+151,"SVN","Slovenia","Europe & Central Asia",49.627,11.77
+152,"SLB","Solomon Islands","East Asia & Pacific",22.779,29
+153,"SOM","Somalia","Sub-Saharan Africa",40.03,NA
+154,"ZAF","South Africa","Sub-Saharan Africa",65.295,1.88
+155,"ESP","Spain","Europe & Central Asia",79.802,67.06
+156,"LKA","Sri Lanka","South Asia",18.407,28
+157,"KNA","St. Kitts and Nevis","Latin America & Caribbean",32.153,45.4
+158,"LCA","St. Lucia","Latin America & Caribbean",18.54,80.48
+159,"VCT","St. Vincent and the Grenadines","Latin America & Caribbean",50.899,75.5
+160,"SDN","Sudan","Sub-Saharan Africa",34.007,89.65
+161,"SUR","Suriname","Latin America & Caribbean",66.015,28.57
+162,"SWZ","Swaziland","Sub-Saharan Africa",21.315,56.51
+163,"SWE","Sweden","Europe & Central Asia",85.964,5
+164,"CHE","Switzerland","Europe & Central Asia",73.99,11.31
+165,"TJK","Tajikistan","Europe & Central Asia",26.891,47.5
+166,"TZA","Tanzania","Sub-Saharan Africa",32.316,20.47
+167,"THA","Thailand","East Asia & Pacific",51.54,17.99
+168,"TLS","Timor-Leste","East Asia & Pacific",33.401,25.25
+169,"TGO","Togo","Sub-Saharan Africa",40.463,39.95
+170,"TON","Tonga","East Asia & Pacific",23.801,73.3
+171,"TTO","Trinidad and Tobago","Latin America & Caribbean",8.352,49.6
+172,"TUN","Tunisia","Middle East & North Africa",67.047,58.35
+173,"TUR","Turkey","Europe & Central Asia",73.887,46.01
+174,"TKM","Turkmenistan","Europe & Central Asia",50.396,13
+175,"TUV","Tuvalu","East Asia & Pacific",60.62,21.88
+176,"UGA","Uganda","Sub-Saharan Africa",16.444,52.48
+177,"UKR","Ukraine","Europe & Central Asia",69.915,66.4
+178,"ARE","United Arab Emirates","Middle East & North Africa",85.804,76.18
+179,"GBR","United Kingdom","Europe & Central Asia",82.835,46.79
+180,"USA","United States","North America",81.788,55.57
+181,"URY","Uruguay","Latin America & Caribbean",95.46,46.5
+182,"UZB","Uzbekistan","Europe & Central Asia",36.479,24
+183,"VUT","Vanuatu","East Asia & Pacific",26.441,29.41
+184,"VNM","Vietnam","East Asia & Pacific",34.236,NA
+185,"PSE","West Bank and Gaza","Middle East & North Africa",75.481,24.58
+186,"YEM","Yemen, Rep.","Middle East & North Africa",35.187,54
+187,"ZMB","Zambia","Sub-Saharan Africa",41.379,25.51
+188,"ZWE","Zimbabwe","Sub-Saharan Africa",32.277,23.12
