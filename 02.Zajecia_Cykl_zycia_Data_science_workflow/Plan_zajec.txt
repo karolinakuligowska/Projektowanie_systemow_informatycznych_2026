@@ -1,0 +1,46 @@
+
+1. Przeczytaj ze zrozumieniem Cykl_zycia_systemu informatycznego 
+- Otwórz swój plik "Notatki z zajęć"
+- napisz "Zajęcia 2. Cykl_zycia_systemu informatycznego"
+- następnie:
+
+a) Napisz z pamięci (nie patrząc na materiały) wszystkie etapy Cyklu życia systemu informatycznego.
+Następnie wróć do materiałów i sprawdź, czego brakuje i dopisz to.
+
+b) odpowiedz na pytania:
+- Czy cykl życia procesu analizy danych w data science jest podobny 
+do etapów Cyklu życia systemu informatycznego? 
+- Czy w obu cyklach życia kolejność etapów jest (ogólnie) analogiczna?
+
+[całe powyższe wykonane zadanie ze wszystkimi podpunktami i odpowiedziami  => 1pkt ]
+
+
+2. Otwórz folder Zadanie_Data_science_workflow
+Otwórz plik worda
+
+a) Przeczytaj CZĘŚĆ I: AI jako wsparcie pracy analityka danych
+
+b) Wykonaj cały kod z CZĘŚĆ II: Minimalny workflow analityczny pracy z danymi
+Chodzi o:
+- przeklejenie kodu do skryptu R, 
+- poprawne i estetyczne uporządkowanie kodu 
+		-zakomentuj linijki z komentarzem, 
+		-zakomentuj linijki PO wykonanej instalacji pakietu, 
+		-nazwij i ponumeruj kolejne sekcje kodu dla łatwej nawigacji, 
+- uruchomienie całego kodu i zobaczenie rezultatu w konsoli i na wykresach, 
+- a na końcu zapisanie skryptu R jako: "Zajecia_2_Data_Science_workflow.R"
+[upload tego skryptu na swojego githuba do folderu Zajęcia_02  => 1pkt ]
+
+c) Rezultatem poprawnego wykonania całego kodu powinny być pliki: 
+kraje_analiza.csv
+kraje_wynik.xlsx 
+7 wykresów zapisanych ręcznie w formacie .PNG
+[upload tych plików na swojego githuba do folderu Zajęcia_02  => 1pkt ]
+
+d) [zaawansowane] Zapisz swój skrypt "Zajecia_2_Data_Science_workflow.R" w formacie raportu html. 
+Raport wykonuje się z poziomu menu: File  /  Compile report  (niezbędna może być instalacja pakietu rmarkdown)
+[upload tego raportu html na swojego githuba do folderu Zajęcia_02  => 1pkt ]
+
+
+
+
