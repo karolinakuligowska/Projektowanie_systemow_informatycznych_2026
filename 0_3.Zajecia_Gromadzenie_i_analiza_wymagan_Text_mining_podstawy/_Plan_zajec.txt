@@ -1,0 +1,35 @@
+
+1. Przeczytaj ze zrozumieniem Gromadzenie_i_analiza_wymagań 
+- Otwórz swój plik "Notatki z zajęć"
+- napisz "Zajęcia 3. Gromadzenie i analiza wymagań"
+- następnie:
+
+napisz (wymyśl) 2 wymagania funkcjonalne i 2 niefunkcjonalne 
+dla systemu text mining w języku R, który analizuje dane tekstowe i tworzy chmurę słów. // 1pkt
+
+
+DYSKUSJA NA ZAJĘCIACH [2pkt]
+Dotyczy punktu 2 (interpretacja wykresów) i punktu 3 (omówienie co wykonuje kod w skrypcie R).
+
+
+2. Otwórz rozwiązanie zadania z poprzednich zajęć Zadanie_Data_science_workflow 
+(jeśli nie masz - zobacz w folderze 02.Zajecia_rozwiazanie)
+
+Zastanów się jak zgodnie z wiedzą statystyczną zinterpretować 7 wykresów? 
+odpowiedz np.:
+Jaką zależność między zmiennymi przedstawia dany wykres?
+Czy dane mają charakter porządkowy, nominalny czy ciągły?
+Jak skala osi wpływa na odbiór danych?
+Jakie wnioski można sformułować na podstawie wykresów pudełkowych?
+Czy na wykresie pudełkowym występują obserwacje odstające (outliers) i jak wpływają na wnioski?
+
+
+3. Otwórz folder Zadanie_Text_mining_podstawy
+- Przeczytaj _System do analizy częstości tekstu, a następnie przejrzyj pliki Rozwiązanie. 
+- Otwóz skrypt R i wykonaj samodzielnie kod R, i zapisz rezultat wykonanego kodu w formacie raportu html.
+Raport wykonuje się z poziomu menu: File  /  Compile report.
+[upload SWOJEGO (nie mojego) wykonanego raportu html na swojego githuba do folderu Zajęcia_03  => 1pkt ]
+
+
+
+
