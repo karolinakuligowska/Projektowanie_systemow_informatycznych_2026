@@ -1,0 +1,32 @@
+
+
+1. Otwórz folder Przestrzen_wektorowa_Topic_modeling2
+Zobacz rezultaty kodu w raporcie html, ukazującym zastosowanie modelowania tematów na tekstach z pliku csv.
+Zliczanie częstości słów: dlaczego częstość trzeciego, czwartego, piątego itd. słowa nie jest tak wysoka jak dwóch pierwszych słów "flight" i "lot"?
+Modelowanie tematów: który podział na tematy (tzn. liczba tematów) wydaje się być najlepszy?
+- dyskusja na zajęciach. // 2pkt
+
+
+2. Kod modelowania tematów
+Dokonaj zmian w pliku Zaj_10.BoW_Przestrzen_wektorowa_LDA_rozne_k_Plik_CSV.R:
+- Usuń zbędne słowa "flight" i "lot" z korpusu przed krokiem Tokenizacja
+- Usuń zakomentowany fragment z imionami (linijki 189-201), który zaczyna się od: # corpus <- tm_map(corpus, removeWords, c("rose", "roses", "kate", …. 
+- Zapisz zmiany i wykonaj nowy raport html. // 1pkt
+
+
+
+3. Przeczytaj ze zrozumieniem Metodyki_Agile_Waterfall_cz2.pdf
+
+a) Otwórz swój plik "Notatki z zajęć", napisz "Zajęcia 10. Metodyki Agile i Waterfall_cz2".
+Następnie krótko rozpisz tablicę Kanban dla prostego projektu dotyczącego Topic modelingu (składającego się z zadań ponumerowanych w pliku: 
+"Zaj_10.BoW_Przestrzen_wektorowa_LDA_rozne_k_Plik_CSV.html")
+=> załóżmy, że są już wykonane zadania 0-2 i aktualnie jest realizowane zadanie "3. Eksploracyjna analiza danych"
+// 1pkt
+
+
+
+
+
+
+
+
