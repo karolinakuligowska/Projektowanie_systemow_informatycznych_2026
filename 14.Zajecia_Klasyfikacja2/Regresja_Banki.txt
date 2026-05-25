@@ -1,0 +1,11 @@
+W instytucjach finansowych obowiązują rygorystyczne regulacje (np. Basel II/III, EBA guidelines, KNF, GDPR, itp.), które wymagają audytowalności i uzasadnienia decyzji. Regresja ma długą historię walidacji w praktyce bankowej. Instytucje zbudowały wokół niej całe procesy, narzędzia i kompetencje zespołów analitycznych, ze względu na jej cechy:
+
+- Interpretowalność, transparentność
+- Stabilność i odporność na przetrenowanie
+- Łatwość do skalowania (ma znaczenie przy przetwarzaniu tysięcy wniosków dziennie)
+- Dojrzałość metodologiczna
+
+Przykładowo, odrzucenie wniosku kredytowego musi być uzasadnione (regresja umożliwia wskazanie, które czynniki wpłynęły na decyzję).
+
+
+Uczenie maszynowe przoduje w detekcji oszustw (fraud detection, transaction monitoring, anti-money laundering itp.), ponieważ tam ważna jest skuteczność i czas reakcji, a mniej obowiązują formalne wymogi wyjaśnialności każdej decyzji.
