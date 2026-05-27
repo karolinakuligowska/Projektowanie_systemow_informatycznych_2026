@@ -4,18 +4,25 @@ Zobacz rezultaty kodu w raporcie html, ukazującym model uczenia maszynowego nad
 Przeczytaj ocenę wyników modelu z pliku Ocena_modelu_LOSOWY_STRATYFIKOWANY_stemming.pdf
 
 Pytania:
-Czy z użyciem stemmingu w corpusie jest różnica w wynikach metryki Accuracy między "podział LOSOWY" oraz "podział STRATYFIKOWANY"?
-Jak wypadają wartości innych metryk dla oceny obu modeli klasyfikacji?
-Jakie działania/zabiegi poprawiają wyniki działania modelu klasyfikacyjnego dla danych tekstowych?
+Czy z użyciem stemmingu w corpusie występuje różnica w wynikach metryki Accuracy między "podział LOSOWY" oraz "podział STRATYFIKOWANY"?
+Jak sposób podziału danych może wpływać na jakość działania nowoczesnego systemu informatycznego wykorzystującego klasyfikację tekstu?
+
+Które metryki oceny modelu byłyby szczególnie istotne podczas projektowania i testowania systemu wspierającego automatyczną analizę opinii klientów lub zgłoszeń użytkowników?
+
+Które działania/techniki, poprawiające wyniki działania modelu klasyfikacyjnego, można uznać za ważne elementy projektowania, wdrażania i utrzymania nowoczesnych systemów informatycznych opartych na analizie danych tekstowych? 
+(Przypomnienie: projektowanie odpowiada za stworzenie koncepcji systemu, wdrażanie za uruchomienie rozwiązania w praktyce, utrzymanie za dalsze rozwijanie i kontrolę działania systemu po jego wdrożeniu)
+
 - dyskusja na zajęciach. // 2pkt
 
-Dodatkowe pytania:
-W bankach/instytucjach finansowych to regresja liniowa lub regresja logistyczna są podstawą tworzenia modeli w obszarach takich, jak:
+Dodatkowe pytania do dyskusji:
+W bankach/instytucjach finansowych regresja (liniowa i logistyczna) jest jedną z podstawowych metod budowy modeli w obszarach takich jak:
 - ocena ryzyka kredytowego (credit scoring) - np. przewidywanie prawdopodobieństwa niespłacenia zobowiązania przez klienta na podstawie cech demograficznych, historii kredytowej i dochodów
 - detekcja oszustw (fraud detection) - np. wykrywanie podejrzanych transakcji poprzez modelowanie binarnego wyniku: oszustwo / brak oszustwa
 - prognozowanie zachowań klientów - np. analiza prawdopodobieństwa odejścia klienta (churn prediction)
-=> Dlaczego regresja jest podstawą, skoro istnieje dużo więcej algorytmów Uczenia Maszynowego? 
+
+=> Dlaczego regresja pozostaje jednym z najczęściej wykorzystywanych modeli podczas projektowania i utrzymania systemów informatycznych dla instytucji finansowych, mimo rozwoju bardziej zaawansowanych algorytmów uczenia maszynowego?
 => Czym jest XAI?
+=> Dlaczego wyjaśnialność modeli jest ważna w projektowaniu systemów informatycznych spełniających wymagania biznesowe i regulacyjne?
 
 Dodatkowe pojęcia:
 - zgodność regulacyjna (compliance)
@@ -36,8 +43,20 @@ K-Nearest Neighbors KNN (k-najbliższych sąsiadów)
 Naive Bayes (Naiwny Bayesowski)
 
 Następnie zapisz w Notatkach odpowiedź na pytanie:
-Wybierz z powyższej listy dwa dowolne klasyfikatory (inne niż SVM), wyszukaj informacje na ich temat i krótko opisz: 1) Jak działa, 2) Dlaczego warto byłoby go przetestować w zadaniu klasyfikacji recenzji/opinii klientów.
+Wybierz z powyższej listy dwa dowolne klasyfikatory (inne niż SVM), wyszukaj informacje na ich temat i krótko opisz: 
+1) Jak działa dany model, 
+2) Dlaczego warto byłoby go przetestować w zadaniu klasyfikacji recenzji/opinii klientów,
+3) W jakich nowoczesnych systemach informatycznych taki model może być wykorzystywany?
 // 2pkt
+
+
+
+
+
+
+
+
+
 
 
 
